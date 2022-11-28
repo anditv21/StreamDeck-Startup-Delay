@@ -1,6 +1,6 @@
 # StartupDelay
  
-A small program that starts the Elgato stream deck software at the right time.
+A small program that starts the Elgato stream deck software after the ShareX Version of Steam.
 
 If you want to use the ShareX plugin for the StreamDeck together with the Steam version of ShareX it often happens that the Elgato software starts before ShareX.
 <br>
